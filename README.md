@@ -21,7 +21,7 @@ Este portifólio possui adaptações pessoais realizadas após a conclusão do c
 
 - `Funcionalidade 1`: Portifólio online de apresentação. Apresenta mudanças de páginas para os conteúdos "home", "sobre mim" e "habilidades".
 - `Funcionalidade 2`: Desenvolvido para deixar uma navegação adaptativa a diversos tamanhos de tela.
-- `Funcionalidade 3`: O portifólio está online atravéz da plataforma Vercel no link: 
+- `Funcionalidade 3`: O portifólio está online atravéz da plataforma Vercel no link: https://portifolio-thaism-01.vercel.app/
 
 # ✔️ Tecnologias utilizadas:
 
